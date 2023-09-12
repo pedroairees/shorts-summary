@@ -1,4 +1,6 @@
-# Shorts Summary
+<p align="center">
+   <img src="https://github.com/pedroairees/shorts-summary/assets/110794196/078c7af2-503e-4b26-82cb-3db7e567768f" alt="Logo do projeto Short Summary">
+</p>
 
 ### Esse Projeto se trata de uma IA, onde você manda a *URL* de um *shorts* do YouTube, e ele fará um resumo para você do shorts!
 
